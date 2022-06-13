@@ -1,0 +1,19 @@
+.cont {
+  width: 80%;
+  margin: 0 10%;
+  display: flex;
+}
+.logo {
+  margin-right: 30%;
+}
+.header {
+  font-size: 1.2em;
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgba(0, 51, 153, 1);
+}
+hr {
+  width: 80%;
+}

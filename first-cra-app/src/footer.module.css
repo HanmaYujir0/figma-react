@@ -1,0 +1,16 @@
+footer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.partners {
+  margin: 0 5%;
+}
+.developers {
+  margin-right:5%;
+}
+.vacancies {
+  margin-right:5%;
+}
